@@ -1,5 +1,0 @@
-com\niit\backend\model\User.class
-com\niit\backend\App.class
-com\niit\backend\config\hibernateConfig.class
-com\niit\backend\dao\UserDao.class
-com\niit\backend\daoImpl\UserDaoImpl.class
